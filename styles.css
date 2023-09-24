@@ -1,0 +1,26 @@
+.image-preview img {
+    border-top: 30px solid #87ceeb;
+    border-right: 30px solid #ffb6c1;
+    border-bottom: 30px solid #90ee90;
+    border-left: 30px solid #ffefd5;
+}
+
+p>span {
+    color: red
+}
+
+#header span {
+    color: pink;
+}
+
+span {
+    color: green;
+}
+
+#header *:last-child {
+    color: orange;
+}
+
+#header span:first-child:hover {
+    color: blue;
+}
